@@ -35,4 +35,17 @@
 \- Git
 
 \- GitHub
+## How to Run
+
+
+
+Run Greeting Bot:
+
+python greeting\_bot.py
+
+
+
+Run Calculator:
+
+python calculator.py
 
